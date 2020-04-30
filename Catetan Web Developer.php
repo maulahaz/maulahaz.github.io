@@ -15,3 +15,9 @@ Sumber: https://www.sitepoint.com/how-to-install-php-on-windows/
 - Edit Path: Arahkan ke : Folder hasil downloadan PHP nya.
 - Restart cmd or Terminal
 - Test pake: php -v
+                                     
+<!-- Error pas Load SQL file ke Laragon -->
+<!-------------------------------------------------------------------->   
+Ada error [1115 - Unknown character set: 'utf8mb4'], solusinya:
+Ganti: mysql server 5.5.3 or newer, 
+Ato: replace all 'utf8mb4' to 'utf8' in your DB dump
