@@ -4,4 +4,4 @@
 
 ## About Me
 
-I'm just an ordinari person who likes a lot in coding
+I'm just an ordinary person who likes a lot in coding
