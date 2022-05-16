@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://maulahaz.github.io/" target="_blank"><img src="/docs/assets/charity-icon.png" alt="hi" class="inline" width="400"/></a>
+  <a href="https://maulahaz.github.io/" target="_blank"><img src="/docs/assets/charity-icon.png" alt="hi" class="inline" width="200"/></a>
   <br><br><br>
 </p>
 
