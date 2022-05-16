@@ -8,3 +8,4 @@
 
 I'm just an ordinary person who likes a lot in coding
 <img src="assets/charity-icon.png" alt="Image description">
+![Image description](charity-icon.png)
