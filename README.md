@@ -3,7 +3,7 @@
   <br><br><br>
   ![Charity logo](/maulahaz.github.io/assets/charity-icon.png)
 </p>
-
+![Charity logo](/maulahaz.github.io/assets/charity-icon.png)
 ## About Me
 
 I'm just an ordinary person who likes a lot in coding
