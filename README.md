@@ -2,11 +2,11 @@
 ### Assalaamu'alaykum 
 
 # **About Me**
-Hi... I'm Hazmi a.k.a Abu Ahyar, I'm just an ordinary person who really likes coding.<br>
-My education background was an Analytical Chemistry.<br>
-I gain my IT knowledges from Youtube, Stack Overflow, and some coding forums and communities.<br>
-Keep practice is my key to get more stronger for my skills.<br>
-I like to share and work with anyone, It's also improving ourself so we can be better and better.<br>
+Hi... I'm Hazmi a.k.a Abu Ahyar, I'm just an ordinary person who really enjoys coding.<br>
+My education background is in Analytical Chemistry.<br>
+I acquired my IT knowledges from Youtube, Stack Overflow, and various coding forums and communities.<br>
+Consistent practice is my key to strengthening my skills.<br>
+I enjoy sharing and collaborating with others, as it contributes to continuous improvement for all involved.<br>
 
 <!-- Skills -->
 # **My Skills**
@@ -16,6 +16,6 @@ I like to share and work with anyone, It's also improving ourself so we can be b
 
 <!-- Repository Info -->
 # **Repository Info**
-Project Desc	: Static web about Myself as MHz profile and porfolio.
-Start Date	    : Sep-2020
-Web Template    : [Folio by BootstrapMade.com](https://bootstrapmade.com/folio-bootstrap-portfolio-template/)
+Project Desc	: Static web about Myself as MHz profile and porfolio.<br>
+Start Date	    : Sep-2020<br>
+Web Template    : [Folio by BootstrapMade.com](https://bootstrapmade.com/folio-bootstrap-portfolio-template/)<br>
