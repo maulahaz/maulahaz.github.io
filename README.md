@@ -18,5 +18,5 @@ I enjoy sharing and collaborating with others, as it contributes to continuous i
 # **Repository Info**
 Project Desc	  : Static web about Myself as MHz profile and porfolio.<br>
 Start Date	    : Sep-2020<br>
-Web Link        : [maulahaz.github.io](https://maulahaz.github.io)<br>
+Web Link        : [maulahaz.github.io](https://maulahaz.github.io/)<br>
 Web Template    : [Folio by BootstrapMade.com](https://bootstrapmade.com/folio-bootstrap-portfolio-template/)<br>
